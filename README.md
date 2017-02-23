@@ -7,10 +7,11 @@ Please reach out to Tom (tom@entelo.com) or Shane (shane@entelo.com) if you have
 
 ## Resources
 
-### Text Editors
+### Text Editors and IDEs
 
 * [Atom](https://atom.io/)
 * [Sublime Text](https://www.sublimetext.com/)
+* [Cloud9](https://c9.io/)
 
 ### Coding
 
