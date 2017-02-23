@@ -12,6 +12,8 @@ Please reach out to Tom (tom@entelo.com) or Shane (shane@entelo.com) if you have
 * [Atom](https://atom.io/)
 * [Sublime Text](https://www.sublimetext.com/)
 * [Cloud9](https://c9.io/)
+* [Aptana](http://www.aptana.com/)
+* [RubyMine](https://www.jetbrains.com/ruby/)
 
 ### Coding
 
