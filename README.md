@@ -11,6 +11,7 @@ Please reach out to Tom (tom@entelo.com) or Shane (shane@entelo.com) if you have
 
 * [Atom](https://atom.io/)
 * [Sublime Text](https://www.sublimetext.com/)
+* [vim](http://www.vim.org/)
 * [Cloud9](https://c9.io/)
 * [Aptana](http://www.aptana.com/)
 * [RubyMine](https://www.jetbrains.com/ruby/)
@@ -23,6 +24,10 @@ Please reach out to Tom (tom@entelo.com) or Shane (shane@entelo.com) if you have
 ### Python
 
 * [Learn Python the Hard Way](https://learncodethehardway.org/python/)
+
+### Ruby
+
+
 
 ### SQL
 
